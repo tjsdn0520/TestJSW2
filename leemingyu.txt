@@ -1,0 +1,5 @@
+imoprt sys
+
+def blabla()
+	blabla
+
